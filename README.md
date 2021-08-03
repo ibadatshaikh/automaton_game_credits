@@ -24,9 +24,9 @@ A* Pathfinding
 (used to determine the available path region & route a hedgehog, squirrel, or non-player robot can take to follow the player and / or reach a target):<br></br>
 https://arongranberg.com/astar/
 
---------------
-A* Pathfinding
---------------
+-----
+Font
+-----
 White font with black outline used for sign posts & error messaging <br></br>
 https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
 
